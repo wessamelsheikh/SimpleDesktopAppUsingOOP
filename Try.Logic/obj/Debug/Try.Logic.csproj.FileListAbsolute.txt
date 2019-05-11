@@ -1,0 +1,33 @@
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Logic\bin\Debug\Try.Logic.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Logic\bin\Debug\Try.Logic.pdb
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Logic\obj\Debug\Try.Logic.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Logic\obj\Debug\Try.Logic.pdb
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Logic\obj\Debug\Try.Logic.csprojResolveAssemblyReference.cache
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Logic\bin\Debug\microsoft.applicationblocks.data.dll
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Logic\bin\Debug\Try.Dal.dll
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Logic\bin\Debug\Try.Data.dll
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Logic\bin\Debug\Try.Dal.pdb
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Logic\bin\Debug\Try.Data.pdb
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\Try.Logic.dll
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\Try.Logic.pdb
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\microsoft.applicationblocks.data.dll
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\Try.Dal.dll
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\Try.Data.dll
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\Try.Dal.pdb
+D:\Downloads\Projects\Try\Try.Logic\bin\Debug\Try.Data.pdb
+D:\Downloads\Projects\Try\Try.Logic\obj\Debug\Try.Logic.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Try\Try.Logic\obj\Debug\Try.Logic.dll
+D:\Downloads\Projects\Try\Try.Logic\obj\Debug\Try.Logic.pdb
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\Try.Logic.dll
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\Try.Logic.pdb
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\microsoft.applicationblocks.data.dll
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\Try.DAL.dll
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\Try.Data.dll
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\Try.DAL.pdb
+D:\Wessam\Projects\Try\Try.Logic\bin\Debug\Try.Data.pdb
+D:\Wessam\Projects\Try\Try.Logic\obj\Debug\Try.Logic.csprojResolveAssemblyReference.cache
+D:\Wessam\Projects\Try\Try.Logic\obj\Debug\Try.Logic.dll
+D:\Wessam\Projects\Try\Try.Logic\obj\Debug\Try.Logic.pdb
