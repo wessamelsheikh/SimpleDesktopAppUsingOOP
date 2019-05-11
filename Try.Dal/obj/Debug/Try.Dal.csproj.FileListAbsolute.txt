@@ -1,0 +1,25 @@
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\bin\Debug\Try.Dal.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\bin\Debug\Try.Dal.pdb
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\obj\Debug\Try.Dal.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\obj\Debug\Try.Dal.pdb
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\obj\Debug\Try.Dal.csprojResolveAssemblyReference.cache
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\bin\Debug\microsoft.applicationblocks.data.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\bin\Debug\Try.Data.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Dal\bin\Debug\Try.Data.pdb
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Dal\bin\Debug\Try.Dal.dll.config
+D:\Downloads\Projects\Try\Try.Dal\bin\Debug\Try.Dal.dll
+D:\Downloads\Projects\Try\Try.Dal\bin\Debug\Try.Dal.pdb
+D:\Downloads\Projects\Try\Try.Dal\bin\Debug\microsoft.applicationblocks.data.dll
+D:\Downloads\Projects\Try\Try.Dal\bin\Debug\Try.Data.dll
+D:\Downloads\Projects\Try\Try.Dal\bin\Debug\Try.Data.pdb
+D:\Downloads\Projects\Try\Try.Dal\obj\Debug\Try.Dal.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Try\Try.Dal\obj\Debug\Try.Dal.dll
+D:\Downloads\Projects\Try\Try.Dal\obj\Debug\Try.Dal.pdb
+D:\Wessam\Projects\Try\Try.Dal\bin\Debug\Try.DAL.dll
+D:\Wessam\Projects\Try\Try.Dal\bin\Debug\Try.DAL.pdb
+D:\Wessam\Projects\Try\Try.Dal\bin\Debug\microsoft.applicationblocks.data.dll
+D:\Wessam\Projects\Try\Try.Dal\bin\Debug\Try.Data.dll
+D:\Wessam\Projects\Try\Try.Dal\bin\Debug\Try.Data.pdb
+D:\Wessam\Projects\Try\Try.Dal\obj\Debug\Try.DAL.csprojResolveAssemblyReference.cache
+D:\Wessam\Projects\Try\Try.Dal\obj\Debug\Try.DAL.dll
+D:\Wessam\Projects\Try\Try.Dal\obj\Debug\Try.DAL.pdb
