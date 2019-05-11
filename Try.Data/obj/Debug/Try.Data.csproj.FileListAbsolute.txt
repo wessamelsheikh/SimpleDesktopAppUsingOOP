@@ -1,0 +1,18 @@
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Data\bin\Debug\Try.Data.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Data\bin\Debug\Try.Data.pdb
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Data\obj\Debug\Try.Data.dll
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Data\obj\Debug\Try.Data.pdb
+c:\Users\7\documents\visual studio 2012\Projects\Try\Try.Data\bin\Debug\microsoft.applicationblocks.data.dll
+C:\Users\7\Documents\Visual Studio 2012\Projects\Try\Try.Data\obj\Debug\Try.Data.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Try\Try.Data\bin\Debug\Try.Data.dll
+D:\Downloads\Projects\Try\Try.Data\bin\Debug\Try.Data.pdb
+D:\Downloads\Projects\Try\Try.Data\bin\Debug\microsoft.applicationblocks.data.dll
+D:\Downloads\Projects\Try\Try.Data\obj\Debug\Try.Data.dll
+D:\Downloads\Projects\Try\Try.Data\obj\Debug\Try.Data.pdb
+D:\Downloads\Projects\Try\Try.Data\obj\Debug\Try.Data.csprojResolveAssemblyReference.cache
+D:\Wessam\Projects\Try\Try.Data\bin\Debug\Try.Data.dll
+D:\Wessam\Projects\Try\Try.Data\bin\Debug\Try.Data.pdb
+D:\Wessam\Projects\Try\Try.Data\bin\Debug\microsoft.applicationblocks.data.dll
+D:\Wessam\Projects\Try\Try.Data\obj\Debug\Try.Data.dll
+D:\Wessam\Projects\Try\Try.Data\obj\Debug\Try.Data.pdb
+D:\Wessam\Projects\Try\Try.Data\obj\Debug\Try.Data.csprojResolveAssemblyReference.cache
