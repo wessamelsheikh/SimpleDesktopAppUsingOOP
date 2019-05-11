@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS" targetNamespace="http://tempuri.org/DS.xsd" xmlns:mstns="http://tempuri.org/DS.xsd" xmlns="http://tempuri.org/DS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS" msprop:Generator_UserDSName="DS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CityDetails" msprop:Generator_TableClassName="CityDetailsDataTable" msprop:Generator_TableVarName="tableCityDetails" msprop:Generator_RowChangedName="CityDetailsRowChanged" msprop:Generator_TablePropName="CityDetails" msprop:Generator_RowDeletingName="CityDetailsRowDeleting" msprop:Generator_RowChangingName="CityDetailsRowChanging" msprop:Generator_RowEvHandlerName="CityDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="CityDetailsRowDeleted" msprop:Generator_RowClassName="CityDetailsRow" msprop:Generator_UserTableName="CityDetails" msprop:Generator_RowEvArgName="CityDetailsRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CityID" msprop:Generator_ColumnVarNameInTable="columnCityID" msprop:Generator_ColumnPropNameInRow="CityID" msprop:Generator_ColumnPropNameInTable="CityIDColumn" msprop:Generator_UserColumnName="CityID" type="xs:int" minOccurs="0" />
+              <xs:element name="CityCode" msprop:Generator_ColumnVarNameInTable="columnCityCode" msprop:Generator_ColumnPropNameInRow="CityCode" msprop:Generator_ColumnPropNameInTable="CityCodeColumn" msprop:Generator_UserColumnName="CityCode" type="xs:int" minOccurs="0" />
+              <xs:element name="CityName" msprop:Generator_ColumnVarNameInTable="columnCityName" msprop:Generator_ColumnPropNameInRow="CityName" msprop:Generator_ColumnPropNameInTable="CityNameColumn" msprop:Generator_UserColumnName="CityName" type="xs:string" minOccurs="0" />
+              <xs:element name="CountryID" msprop:Generator_ColumnVarNameInTable="columnCountryID" msprop:Generator_ColumnPropNameInRow="CountryID" msprop:Generator_ColumnPropNameInTable="CountryIDColumn" msprop:Generator_UserColumnName="CountryID" type="xs:int" minOccurs="0" />
+              <xs:element name="CountryCode" msprop:Generator_ColumnVarNameInTable="columnCountryCode" msprop:Generator_ColumnPropNameInRow="CountryCode" msprop:Generator_ColumnPropNameInTable="CountryCodeColumn" msprop:Generator_UserColumnName="CountryCode" type="xs:int" minOccurs="0" />
+              <xs:element name="CountryName" msprop:Generator_ColumnVarNameInTable="columnCountryName" msprop:Generator_ColumnPropNameInRow="CountryName" msprop:Generator_ColumnPropNameInTable="CountryNameColumn" msprop:Generator_UserColumnName="CountryName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
